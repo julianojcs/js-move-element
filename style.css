@@ -1,0 +1,11 @@
+#box {
+  position: absolute;
+  background-color: red;
+  left: 0px;
+  top: 0px;
+  width: 100px;
+  height: 100px;
+  color: blue;
+  cursor: grab;
+  border-radius: 5% 5%;
+}
